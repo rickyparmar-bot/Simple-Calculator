@@ -7,7 +7,11 @@ I started this project for learning basic JS
 # Features
 Basic Math Operations: Addition, subtraction, multiplication, and division.
 
+Catpuccin Themed
+
 # Made with
 HTML
+
 CSS
+
 JavaScript
