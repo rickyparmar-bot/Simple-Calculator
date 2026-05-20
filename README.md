@@ -7,7 +7,7 @@ I started this project for learning basic JS
 # Features
 Basic Math Operations: Addition, subtraction, multiplication, and division.
 
-#Made with
+# Made with
 HTML
 CSS
 JavaScript
